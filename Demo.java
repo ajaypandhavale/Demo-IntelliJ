@@ -10,5 +10,7 @@ public class Demo {
 
         System.out.println("updating after pulling");
 
+        System.out.println("updating after pulling 2");
+
     }
 }
