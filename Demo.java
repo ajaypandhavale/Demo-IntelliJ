@@ -6,5 +6,6 @@ public class Demo {
 
         System.out.println("updating using intellij");
 
+        System.out.println("updating using intellij");
     }
 }
